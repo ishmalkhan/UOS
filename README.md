@@ -29,7 +29,8 @@ The colleges are facilitated to submit their application for affiliation and cho
 
 <h2>Supervisor</h2>
 <img style = "width:80px; height 50px;" src ="https://uosgit.github.io/UOS/qas1.png">
-<h4>Dr. Qaisar Abbas</h4>
+<h4>Dr. Qaiser Abbas</h4>
+Assistant Professor in the Department of Computer Science & IT at University of Sargodha.
 <h2>Group Members </h2>
 <img style = "width:80px; height 50px;" src ="https://uosgit.github.io/UOS/MuhammadBilalIshratpic.jpeg">
 <h4>Bilal Ishrat <br/>
