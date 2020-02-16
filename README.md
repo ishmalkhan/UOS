@@ -35,8 +35,10 @@ The colleges are facilitated to submit their application for affiliation and cho
 <h4>Bilal Ishrat <br/>
  Group Leader
 </h4>
+<a href="https://uosgit.github.io/UOS/Bilal_CV.pdf">CV</a>
 <img style = "width:80px; height 50px;" src ="https://uosgit.github.io/UOS/Ishmalkhan (2).jpeg">
 <h4>Ishmal khan</h4>
+<a href="https://uosgit.github.io/UOS/Ishmal_CV.pdf">CV</a>
 <img style = "width:80px; height 50px;" src ="">
 <h4> Anam Sahar </h4>
 <a href="https://uosgit.github.io/UOS/Anam_CV.pdf">CV</a>
