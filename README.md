@@ -40,7 +40,7 @@ The colleges are facilitated to submit their application for affiliation and cho
 <img style = "width:80px; height 50px;" src ="">
 <h4> Anam Sahar </h4>
 <a href="https://uosgit.github.io/UOS/Anam_CV.pdf">CV</a>
-<h2> Usefull Links </h2>
+<h2> Useful Links </h2>
 <ul>
  <li> <a href="https://uosgit.github.io/UOS/AffiliationManagementSystem_Propsal.pdf">Proposal</a> </li>
  <li> <a href="https://uosgit.github.io/UOS/AffiliationManagementSystem_Plan.pdf">Implementation Plan</a> </li>
