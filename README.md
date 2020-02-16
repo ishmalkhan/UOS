@@ -37,4 +37,7 @@ The colleges are facilitated to submit their application for affiliation and cho
 <h4>Ishmal khan</h4>
 <img style = "width:80px; height 50px;" src ="">
 <h4> Anam Sahar </h4>
-
+<h4> Usefull Links </h4>
+<ul>
+ <li> <a href="https://uosgit.github.io/UOS/AffiliationManagementSystem_Propsal.pdf">Proposal</a> </li>
+</ul>
