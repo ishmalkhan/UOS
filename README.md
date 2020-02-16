@@ -40,4 +40,5 @@ The colleges are facilitated to submit their application for affiliation and cho
 <h4> Usefull Links </h4>
 <ul>
  <li> <a href="https://uosgit.github.io/UOS/AffiliationManagementSystem_Propsal.pdf">Proposal</a> </li>
+ <li> <a href="https://uosgit.github.io/UOS/AffiliationManagementSystem_Plan.pdf">Implementation Plan</a> </li>
 </ul>
