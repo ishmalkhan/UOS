@@ -26,15 +26,15 @@ The colleges are facilitated to submit their application for affiliation and cho
 8: Ajax<br/>
 
 <h2>Supervisor</h2>
-<img style = "width:80px; height 200px;" src ="https://uosgit.github.io/UOS/qas1.png">
+<img style = "width:80px; height 50px;" src ="https://uosgit.github.io/UOS/qas1.png">
 <h4>Dr. Qaisar Abbas</h4>
 <h2>Group Members </h2>
-<img style = "width:80px; height 100px;" src ="https://uosgit.github.io/UOS/WhatsApp Image 2020-02-11 at 9.23.06 AM (2).jpeg">
+<img style = "width:80px; height 50px;" src ="https://uosgit.github.io/UOS/WhatsApp Image 2020-02-11 at 9.23.06 AM (2).jpeg">
 <h4>Bilal Ishrat <br/>
  Group Leader
 </h4>
-<img style = "width:80px; height 100px;" src ="https://uosgit.github.io/UOS/WhatsApp Image 2020-02-16 at 10.23.28 AM.jpeg">
+<img style = "width:80px; height 50px;" src ="https://uosgit.github.io/UOS/WhatsApp Image 2020-02-16 at 10.23.28 AM.jpeg">
 <h4>Ishmal khan</h4>
-<img style = "width:80px; height 200px;" src ="">
+<img style = "width:80px; height 50px;" src ="">
 <h4> Anam Sahar </h4>
 
