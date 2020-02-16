@@ -26,7 +26,7 @@ The colleges are facilitated to submit their application for affiliation and cho
 8: Ajax<br/>
 
 <h2>Supervisor</h2>
-<img style = "width:80px; height 200px;" src ="https://bilalishrat.github.io/UOSAffiliationmanagmetSystem/68-686110_profile-pic-dummy-png.png">
+<img style = "width:80px; height 200px;" src ="https://uosgit.github.io/UOS/qas1.png">
 <h4>Dr. Qaisar Abbas</h4>
 <h2>Group Members </h2>
 <img style = "width:80px; height 200px;" src ="https://bilalishrat.github.io/UOSAffiliationmanagmetSystem/68-686110_profile-pic-dummy-png.png">
