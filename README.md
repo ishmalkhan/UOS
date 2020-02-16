@@ -33,7 +33,7 @@ The colleges are facilitated to submit their application for affiliation and cho
 <h4>Bilal Ishrat <br/>
  Group Leader
 </h4>
-<img style = "width:80px; height 200px;" src ="https://uosgit.github.io/UOS/WhatsApp Image 2020-02-16 at 10.23.28 AM.jpeg">
+<img style = "width:80px; height 100px;" src ="https://uosgit.github.io/UOS/WhatsApp Image 2020-02-16 at 10.23.28 AM.jpeg">
 <h4>Ishmal khan</h4>
 <img style = "width:80px; height 200px;" src ="">
 <h4> Anam Sahar </h4>
