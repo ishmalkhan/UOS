@@ -15,15 +15,17 @@ The colleges are facilitated to submit their application for affiliation and cho
 
  
 <h2>Technologies</h2>
-1: ASP.NET MVC <br/>
-2: ASP NET Identity<br/> 
-2: JavaScript<br/>
-3: Jquery<br/>
-4: Microsoft RDLC <br/>
-5: Html and Css <br/>
-6: Bootstrap <br/>
-7: MS SQL<br/>
-8: Ajax<br/>
+<ul>
+ <li> ASP.NET MVC </li>
+ <li> ASP NET Identity </li>
+ <li> JavaScript </li>
+ <li> Jquery </li>
+ <li> Microsoft RDLC </li>
+ <li> Html and CSS </li>
+ <li> Bootstrap </li>
+ <li> MS SQL </li>
+ <li> Ajax </li>
+</ul>
 
 <h2>Supervisor</h2>
 <img style = "width:80px; height 50px;" src ="https://uosgit.github.io/UOS/qas1.png">
@@ -37,8 +39,11 @@ The colleges are facilitated to submit their application for affiliation and cho
 <h4>Ishmal khan</h4>
 <img style = "width:80px; height 50px;" src ="">
 <h4> Anam Sahar </h4>
-<h4> Usefull Links </h4>
+<a href="https://uosgit.github.io/UOS/Anam_CV.pdf">CV</a>
+<h2> Usefull Links </h2>
 <ul>
  <li> <a href="https://uosgit.github.io/UOS/AffiliationManagementSystem_Propsal.pdf">Proposal</a> </li>
  <li> <a href="https://uosgit.github.io/UOS/AffiliationManagementSystem_Plan.pdf">Implementation Plan</a> </li>
+ <li> <a href="https://uosgit.github.io/UOS/AffiliationManagementSystem_Report.pdf">Report</a> </li>
+ <li> <a href="https://uosgit.github.io/UOS/Affiliation Management System_Manual.pdf">Manual</a> </li>
 </ul>
